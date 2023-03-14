@@ -1,0 +1,5 @@
+Iniciar o eslint
+npm init @eslint/config
+
+
+npx vitest
